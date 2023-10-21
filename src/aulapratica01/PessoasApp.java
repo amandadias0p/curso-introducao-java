@@ -22,6 +22,7 @@ public class PessoasApp {
 		
 		//printar o nome da pessoa1 após alteração
 		System.out.println("O nome do objeto pessoa1, após alteração, é: "+pessoa1.getNome()); 
+		System.out.println("O nome do segundo objeto ainda é "+pessoa2.getNome());
 
 	}
 	
